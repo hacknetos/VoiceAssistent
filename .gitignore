@@ -1,8 +1,8 @@
-obj
-bin
-bin/Debug/net7.0/VoiceAssistent.dll
-bin/Debug/net7.0/VoiceAssistent.pdb
-obj/project.nuget.cache
-obj/VoiceAssistent.csproj.nuget.dgspec.json
-obj/Debug/net7.0/VoiceAssistent.assets.cache
-obj/Debug/net7.0/VoiceAssistent.GeneratedMSBuildEditorConfig.editorconfig
+Finish/Spectre.Console.dll
+Finish/System.Speech.dll
+Finish/VoiceAssistent.deps.json
+Finish/VoiceAssistent.dll
+Finish/VoiceAssistent.exe
+Finish/VoiceAssistent.pdb
+Finish/VoiceAssistent.runtimeconfig.json
+Finish/runtimes/win/lib/net7.0/System.Speech.dll

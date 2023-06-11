@@ -26,5 +26,10 @@ namespace VoiceAssistent.Handler
         public string Name { get => name; set => name = value; }
         public string LiboryLable { get => liboryLable; set => liboryLable = value; }
         public Dictionary<string, Comand> Libory { get => libory; set => libory = value; }
+
+        public void Executing(string comand){
+            CommandHandler CH = new CommandHandler();
+            CH.CommandExecuter(libory[comand]);
+        }
     }
 }
