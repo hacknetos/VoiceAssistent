@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "b:\\projecte\\C#\\VoiceAssistent\\VoiceAssistent.csproj": {}
+    "B:\\projecte\\C#\\VoiceAssistent\\VoiceAssistent.csproj": {}
   },
   "projects": {
-    "b:\\projecte\\C#\\VoiceAssistent\\VoiceAssistent.csproj": {
+    "B:\\projecte\\C#\\VoiceAssistent\\VoiceAssistent.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "b:\\projecte\\C#\\VoiceAssistent\\VoiceAssistent.csproj",
+        "projectUniqueName": "B:\\projecte\\C#\\VoiceAssistent\\VoiceAssistent.csproj",
         "projectName": "VoiceAssistent",
-        "projectPath": "b:\\projecte\\C#\\VoiceAssistent\\VoiceAssistent.csproj",
+        "projectPath": "B:\\projecte\\C#\\VoiceAssistent\\VoiceAssistent.csproj",
         "packagesPath": "C:\\Users\\arnob\\.nuget\\packages\\",
-        "outputPath": "b:\\projecte\\C#\\VoiceAssistent\\obj\\",
+        "outputPath": "B:\\projecte\\C#\\VoiceAssistent\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

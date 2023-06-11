@@ -1,2 +1,8 @@
 obj
 bin
+bin/Debug/net7.0/VoiceAssistent.dll
+bin/Debug/net7.0/VoiceAssistent.pdb
+obj/project.nuget.cache
+obj/VoiceAssistent.csproj.nuget.dgspec.json
+obj/Debug/net7.0/VoiceAssistent.assets.cache
+obj/Debug/net7.0/VoiceAssistent.GeneratedMSBuildEditorConfig.editorconfig

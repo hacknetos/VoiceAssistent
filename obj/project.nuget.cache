@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "v0UxLLlrtYWCo6+ROVB39cpNnM2n+1P2HfBqhmAIpAq8jD/o2Wvc7RAX95WhQaG90o8zBMYC0UGbZ3qiQujEJw==",
+  "dgSpecHash": "1C0N2f2SECKrfZOcyBQRD+zSicbsurWNv2P8wSLIjkAtvvVgCyDY2xSFQuGEt/6sCpvGQ8iWGuuj3O9t19NC8w==",
   "success": true,
-  "projectFilePath": "b:\\projecte\\C#\\VoiceAssistent\\VoiceAssistent.csproj",
+  "projectFilePath": "B:\\projecte\\C#\\VoiceAssistent\\VoiceAssistent.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\arnob\\.nuget\\packages\\spectre.console\\0.47.0\\spectre.console.0.47.0.nupkg.sha512",
     "C:\\Users\\arnob\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
